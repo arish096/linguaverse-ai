@@ -1,5 +1,4 @@
- 
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:A855F7&height=220&section=header&text=LinguaVerse%20AI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Learn%20Languages.%20Explore%20Cultures.%20Unlock%20Your%20World.&descAlignY=60&descSize=16" width="100%" />
 
@@ -13,6 +12,11 @@ An interactive language learning platform designed to make learning languages en
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-Powered-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub Stars](https://img.shields.io/github/stars/arish096/linguaverse-ai?style=for-the-badge&logo=github&color=yellow)](https://github.com/arish096/linguaverse-ai/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/arish096/linguaverse-ai?style=for-the-badge&logo=github&color=blue)](https://github.com/arish096/linguaverse-ai/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/arish096/linguaverse-ai?style=for-the-badge&logo=github)](https://github.com/arish096/linguaverse-ai/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/arish096/linguaverse-ai?style=for-the-badge&logo=github&color=purple)](https://github.com/arish096/linguaverse-ai/commits/main)
+[![License](https://img.shields.io/github/license/arish096/linguaverse-ai?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -188,6 +192,20 @@ Suggestions, ideas, and improvements are welcome!
 If you find an issue or have an idea to improve LinguaVerse AI, feel free to open an issue or submit a pull request.
 
 ---
+
+---
+
+<div align="center">
+
+### ⭐ Support the Project
+
+If you like **LinguaVerse AI** and find it useful, please consider giving this repository a ⭐ Star!
+
+Your support motivates me to keep improving and building new features.
+
+**Made with ❤️ by Arish Islam**
+
+</div> 
 
 <div align="center">
 
